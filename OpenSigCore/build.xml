@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project name="OpenSigCore" basedir="." default="publicar">
 
-	<property name="gwt" location="C:\Users\PHD\Documents\Projetos\OpenSIG\OpenSig\jars\gwt-2.6.1" />
+	<property name="gwt" location="../OpenSig/jars/gwt-2.6.1" />
 	<property name="pacote" value="br.com.opensig.core.client" />
 	<property name="versao" value="1.2.2" />
 	<property name="empresa" value="PhD - Systems Solutions" />
